@@ -1,1 +1,1 @@
-# Trabalho-de-Estat-stica-com-R
+# Trabalho-de-Estatistica-com-R
